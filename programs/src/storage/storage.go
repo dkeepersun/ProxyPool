@@ -1,10 +1,10 @@
 package storage
 
 import (
-	"github.com/henson/ProxyPool/models"
-	"github.com/henson/ProxyPool/util"
 	"gopkg.in/mgo.v2"
 	"gopkg.in/mgo.v2/bson"
+	"models"
+	"util"
 )
 
 // Config 全局配置文件

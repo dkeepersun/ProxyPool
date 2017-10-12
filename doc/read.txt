@@ -1,0 +1,4 @@
+gopkg.in/mgo.v2
+github.com/PuerkitoBio/goquery
+github.com/parnurzeal/gorequest
+github.com/nladuo/go-phantomjs-fetcher

@@ -4,7 +4,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/henson/ProxyPool/models"
+	"models"
 	"github.com/parnurzeal/gorequest"
 )
 

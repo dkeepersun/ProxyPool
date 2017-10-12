@@ -1,4 +1,4 @@
-package main
+package src
 
 import (
 	"log"
@@ -6,10 +6,10 @@ import (
 	"sync"
 	"time"
 
-	"github.com/henson/ProxyPool/api"
-	"github.com/henson/ProxyPool/getter"
-	"github.com/henson/ProxyPool/models"
-	"github.com/henson/ProxyPool/storage"
+	"api"
+	"getter"
+	"models"
+	"storage"
 )
 
 func main() {
