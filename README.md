@@ -86,7 +86,7 @@ github.com/nladuo/go-phantomjs-fetcher
 
 下载本项目：
 ```
-go get -u github.com/henson/ProxyPool
+go get -u github.com/dkeepersun/ProxyPool
 ```
 
 然后配置好相应的config.json并启动：
